@@ -92,3 +92,8 @@ thead {
 tr, td {
     padding: 10px;
 }
+
+footer {
+    background-color: rgb(255, 102, 0);
+    padding: 30px;
+}
